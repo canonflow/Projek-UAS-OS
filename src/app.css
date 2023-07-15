@@ -1,0 +1,19 @@
+* {
+    scroll-behavior: smooth;
+    user-select: none;
+}
+
+.body {
+    min-height: 100vh;
+}
+
+.circle {
+    border-radius: 50%;
+    top: -180px;
+    left: -165px;
+    transform: translateX(-50%, -50%);
+}
+
+/* .container {
+    max-width: 60%;
+} */
